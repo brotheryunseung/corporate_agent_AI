@@ -1,0 +1,16 @@
+streamlit
+pandas
+yfinance
+python-dotenv
+requests
+python-docx
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-openai
+langchain-community
+
+# Optional: For better compatibility
+openai
+tqdm
