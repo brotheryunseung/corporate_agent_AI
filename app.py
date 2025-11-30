@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import os
-os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 
 from corporate_tools import (
